@@ -1,0 +1,2 @@
+C:\ShippingLabelManager\publish\ShippingLabelManager.pdb
+C:\ShippingLabelManager\publish\ShippingLabelManager.exe

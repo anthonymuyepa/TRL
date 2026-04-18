@@ -1,0 +1,5 @@
+C:\ShippingLabelManager\ShippingLabelManager\obj\Debug\net6.0-windows\ShippingLabelManager.csproj.AssemblyReference.cache
+C:\ShippingLabelManager\ShippingLabelManager\obj\Debug\net6.0-windows\ShippingLabelManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\ShippingLabelManager\ShippingLabelManager\obj\Debug\net6.0-windows\ShippingLabelManager.AssemblyInfoInputs.cache
+C:\ShippingLabelManager\ShippingLabelManager\obj\Debug\net6.0-windows\ShippingLabelManager.AssemblyInfo.cs
+C:\ShippingLabelManager\ShippingLabelManager\obj\Debug\net6.0-windows\ShippingLabelManager.csproj.CoreCompileInputs.cache
