@@ -3,10 +3,10 @@ cd ~/projects/TRL
 cat > README.md << 'EOF'
 # TRL - Track Return Labels
 
-A Windows desktop application for managing and printing NLS (National Library Service) return labels and shipping labels.
+A Windows desktop application for managing and printing  return labels and shipping labels.
 
 ## Overview
-This application helps libraries and organizations manage their label printing workflow for NLS return labels and shipping labels.
+This application helps libraries and organizations manage their label printing workflow for return labels and shipping labels.
 
 ## Features
 
